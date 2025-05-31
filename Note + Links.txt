@@ -1,0 +1,12 @@
+For this implementation, we will use the flower recognition dataset from Kaggle.
+https://www.kaggle.com/datasets/alxmamaev/flowers-recognition
+
+You can learn how to get started with Google Colab here
+https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
+
+We recommend that you use a GPU to run the CIFAR-10 notebooks (running each notebook locally will take 2-3 hours, on a GPU it will take 8-10 minutes). 
+
+You can download the notebook from this Github repository
+https://github.com/ContentUpgrad/dl_content/tree/main/Upgrad%20DL/Transfer%20Learning
+
+
